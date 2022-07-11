@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run enhance_app.py
